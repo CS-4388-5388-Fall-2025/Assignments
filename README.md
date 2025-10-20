@@ -3,3 +3,5 @@
 **Assignment 2:** [Hole in the Ground](https://github.com/CS-4388-5388-Fall-2025/Assignments/blob/main/Assignment-2/README.md)
 
 **Assignment 3:** [Earthquake Visualization](https://github.com/CS-4388-5388-Fall-2025/Assignments/blob/main/Assignment-3/README.md)
+
+**Assignment 3:** [So You Think Ants Can Dance](https://github.com/CS-4388-5388-Fall-2025/Assignments/blob/main/Assignment-4/README.md)
